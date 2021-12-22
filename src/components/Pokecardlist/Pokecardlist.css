@@ -1,0 +1,13 @@
+.title {
+  margin-top: 5%;
+}
+.Card {
+  background-color: #d1d1da;
+  width: 20%;
+  margin: 4.6rem auto;
+  height: 8rem;
+  padding: 3rem;
+  border-radius: 5px;
+  box-shadow: 10px 10px 10px #0e2c44;
+  height: auto;
+}
